@@ -1,0 +1,8 @@
+{
+  "name": "Tap NSN",
+  "short_name": "Tap NSN",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#12160f",
+  "theme_color": "#12160f"
+}
